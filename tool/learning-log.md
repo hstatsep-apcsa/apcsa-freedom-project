@@ -1,15 +1,15 @@
 # Tool Learning Log
 
-Tool: **X**
+## Tool: **X**
 
-Project: **X**
+## Project: **X**
 
 ---
 
-X/X/XX:
+### X/X/XX:
 * Text
 
-X/X/XX:
+### X/X/XX:
 * Text
 
 
