@@ -22,8 +22,8 @@
 
 ## Process
 * Flowchart of plan
-  * MVP: noun --> door --> yes/no
-  * Beyond MVP: noun --> word relation API --> noun API --> yes/no, with counterexample
+  * MVP: noun -> door -> yes/no
+  * Beyond MVP: noun -> word relation API -> noun API -> yes/no, with counterexample
 * Code snippets of:
   * MVP
   * Both APIs
